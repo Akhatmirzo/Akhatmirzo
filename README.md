@@ -1,11 +1,9 @@
 <div align="center">
-<video width="100%" height = "350px" src="[https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg](https://cdn.pixabay.com/vimeo/396488078/stone-33279.mp4?width=640&hash=46ff1fcba1e70a804128018df8123f194ab434ab)" alt="cover"></video>
+<img width="100%" height = "350px" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Akhatmirzo.https://github.com/Akhatmirzo)
 
 </p>
 <div size='20px'> Hi! My name is Akhatmirzo. Thank You for taking the time to view my GitHub Profile :smile: 
