@@ -1,11 +1,7 @@
 
-<!-- ----------------------------------- -->
-
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Akhatmirzo)
-<h1 align="center"> 
-  <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I'm+Akhatmirzo+Umarov)](https://git.io/typing-svg) -->
-  Hi 👋 I'm Akhatmirzo Umarov
-</h1>
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I+am+Akhatmirzo+Umarov)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate FullStack Developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
