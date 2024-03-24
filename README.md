@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg" style="object-fit: cover" alt="cover" />
+<img width="100%" height = "350px" src="https://t4.ftcdn.net/jpg/03/15/02/27/360_F_315022751_vg1XCkEIsspb0LIP8bCwUKVhINP69wOv.jpg" style="object-fit: cover;" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
