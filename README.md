@@ -45,6 +45,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 <figure><embed src="https://wakatime.com/share/@018e70c7-7784-4ce5-b883-9f8c62358458/2e7e7890-7bc3-4796-ba99-713db513d29f.svg"></embed></figure>
 </a>
 <br>
