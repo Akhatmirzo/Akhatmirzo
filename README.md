@@ -53,4 +53,4 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhatmirzo&show_icons=true&locale=en&theme=tokyonight" alt="Akhatmirzo" /></p>
 </div>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&&theme=tokyonight" alt="rishavchanda" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&&theme=tokyonight" alt="" /></p>-->
