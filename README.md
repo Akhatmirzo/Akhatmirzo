@@ -5,7 +5,7 @@
 <h1 align="center"> 
   <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I'm+Akhatmirzo+Umarov)](https://git.io/typing-svg) -->
 </h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+science+student)](https://git.io/typing-svg)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I'm+Akhatmirzo+Umarov)](https://git.io/typing-svg)
 <h3 align="center">A passionate FullStack Developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
