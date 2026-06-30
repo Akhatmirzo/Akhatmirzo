@@ -1,47 +1,86 @@
+<h1 align="center">Salom, men Akhatmirzo 👋</h1>
+<h3 align="center">Fullstack Developer | Texnik Founder | O'zbekiston 🇺🇿</h3>
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Akhatmirzo)
-
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+I+am+Akhatmirzo+Umarov)](https://git.io/typing-svg)
-
-<h3 align="center">A passionate FullStack Developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on Github projects, blogs etc...
-
-- 🌱 I’m currently learning Fullstack Developer, MongoDB, nodejs etc... 
-
-- 💬 Ask me about JavaScript, React, Html, Css, Sass, TypeScript, Bootstrap, Tailwind 
-
-- 📫 How to reach me **blackprincepbg@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akhatmirzo-umarov-46a998293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akhatmirzo.umarov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCIdAI2r6X8T-SsfiQUY2iWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Next.js+%2B+TON+Blockchain+Developer;SaaS+Builder+%7C+Zyvo+%26+Bloomio;Telegram+Mini+Apps+%26+Bots;Automation+%26+AI+Integration" alt="Typing SVG" />
 </p>
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/https://github.com/Akhatmirzo?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+---
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhatmirzo&hide_progress=true" alt="" /></p>
+### 🚀 Men haqimda
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhatmirzo&show_icons=true&locale=en&theme=tokyonight" alt="Akhatmirzo" /></p>
-</div>
+- 🛠 Web va mobil ilovalar yaratuvchi **fullstack dasturchi va frilanser**
+- 🌱 Hozirda **Bloomio** ustida ishlayapman — TON blockchain'da Telegram Mini App farming simulyatsiya o'yini
+- 💼 **Zyvo** (zyvo.uz) — sport zallar uchun boshqaruv tizimi (SaaS), to'lov qiluvchi mijozlar bilan
+- 🏗 Arxitekturada **overengineering'dan qochish** va loyihaga mos eng samarali yechimni topishga e'tibor beraman — kerak bo'lganda Vanilla JS / Pure CSS, kerak bo'lganda zamonaviy framework'lar
+- 🎓 Dasturlashni o'rgataman — hozirda faol o'quvchilarim bor
+- 🤖 AI integratsiyasi, avtomatlashtirish va shaxsiy Jarvis-uslubidagi yordamchilar yaratishga qiziqaman
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&&theme=tokyonight" alt="" /></p>-->
+---
+
+### 🛠 Texnik Stack
+
+**Frontend & Backend**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Styling**
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pure_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Database & Infra**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Blockchain & Bots**
+<p>
+  <img src="https://img.shields.io/badge/TON_Blockchain-0098EA?style=for-the-badge&logo=ton&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
+
+**IoT & Telematics**
+<p>
+  <img src="https://img.shields.io/badge/OBD--II_Diagnostics-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teltonika_FMC003-2D2D2D?style=for-the-badge"/>
+</p>
+
+**Network & Security**
+<p>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</p>
+
+---
+
+### 💼 Tanlangan Loyihalar
+
+| Loyiha | Tavsif |
+|---|---|
+| 🌸 **Bloomio** | TON blockchain'dagi Telegram Mini App farming-simulyatsiya o'yini (@bloomio_bot). MVP → Beta → Professional roadmap asosida ishlab chiqilmoqda. |
+| 🏋️ **Zyvo** | Sport zallar uchun to'liq boshqaruv SaaS platformasi (zyvo.uz). GSAP-animatsiyali landing page, real mijozlar bilan production'da ishlamoqda. |
+| 🚁 **AERO X** | Dron/UAV kompaniyasi uchun Next.js + Sanity CMS asosida 3D render integratsiyali landing page. |
+| 🛡 **Fortinet Promo Pages** | Kiberxavfsizlik va tarmoq infratuzilmasi distribyutorlari uchun promo-sahifalar. |
+| 🚗 **Smart Telematics** | Teltonika FMC003 qurilmalari bilan ishlash — Node.js orqali OBD-II avtomobil diagnostika ma'lumotlarini qayta ishlash tizimi. |
+| 🎓 **Medical LMS & Scheduling** | Tibbiyot ta'lim markazi uchun video-streaming (HLS) va sertifikat generatsiyasi bilan LMS, shuningdek konflikt-nazorat logikali jadval tizimi. |
+
+---
+
+### ⚙️ Boshqa qiziqishlar
+
+- ⛏️ Kriptovalyuta mayningi — GPU/ASIC maynerlar, immersiv sovutish texnologiyalari va mayning fermalari infratuzilmasi
+- 🤖 AI-powered shaxsiy yordamchilar (wake word detection, LLM API integratsiyasi, TTS)
+- 🎨 UI/UX dizayn tizimlari, design token'lar, GSAP animatsiyalari
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhatmirzo&style=flat-square&color=2EA3F2" alt="Profile views"/>
+</p>
